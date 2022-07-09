@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">food_runner</string>
+    <string name="register">Register</string>
+    <string name="register_yourself">Register yourself</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_name_min_3_characters">Enter Your Name(Min.3 Characters)</string>
+    <string name="phone_number">Phone Number</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DCF8C6"
+    android:orientation="vertical"
+    tools:context=".WelcomePageActivity">
+
+    <ImageView
+        android:layout_width="600dp"
+        android:layout_height="600dp"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/pizza_1"/>
+</LinearLayout>
